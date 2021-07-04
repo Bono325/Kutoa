@@ -1,31 +1,19 @@
 {
-  "name": "mern-stack-template",
+  "name": "kutoa",
   "version": "1.0.0",
-  "description": "mern stack template for quick deployment",
-  "main": "app.js",
+  "description": "Online store with local brands",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brandonv98/MERN-Stack-Template.git"
+    "url": "git+https://github.com/Bono325/Kutoa.git"
   },
-  "keywords": [
-    "javascript",
-    "nodeJS",
-    "react",
-    "mongodb",
-    "template",
-    "mern",
-    "stack"
-  ],
-  "author": "Brandon VanCamp",
+  "author": "Bono",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brandonv98/MERN-Stack-Template/issues"
+    "url": "https://github.com/Bono325/Kutoa/issues"
   },
-  "homepage": "https://github.com/brandonv98/MERN-Stack-Template#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/Bono325/Kutoa#readme"
 }
